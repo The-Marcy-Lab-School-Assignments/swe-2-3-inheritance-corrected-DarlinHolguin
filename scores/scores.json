@@ -1,22 +1,22 @@
 {
   "testScores": {
     "Shapes Tests": {
-      "ShTe1": 0,
-      "ShTe2": 0,
-      "ShTe3": 0,
-      "ShTe4": 0,
-      "ShTe5": 0,
-      "ShTe6": 0,
-      "ShTe7": 0,
-      "ShTe8": 0,
-      "ShTe9": 0,
-      "ShTe10": 0
+      "ShTe1": 1,
+      "ShTe2": 1,
+      "ShTe3": 1,
+      "ShTe4": 1,
+      "ShTe5": 1,
+      "ShTe6": 1,
+      "ShTe7": 1,
+      "ShTe8": 1,
+      "ShTe9": 1,
+      "ShTe10": 1
     },
     "Library Items Tests": {
-      "LiItTe1": 0,
-      "LiItTe2": 0,
-      "LiItTe3": 0,
-      "LiItTe4": 0,
+      "LiItTe1": 1,
+      "LiItTe2": 1,
+      "LiItTe3": 1,
+      "LiItTe4": 1,
       "LiItTe5": 0,
       "LiItTe6": 0,
       "LiItTe7": 0,
@@ -97,8 +97,8 @@
     "Library Items Tests Magazine uses inheritance properly": "LiItTe19"
   },
   "humanReadable": {
-    "Shapes Tests": "0/10",
-    "finalTestScore": "FINAL SCORE: 0/29",
-    "Library Items Tests": "0/19"
+    "Shapes Tests": "10/10",
+    "finalTestScore": "FINAL SCORE: 14/29",
+    "Library Items Tests": "4/19"
   }
 }
