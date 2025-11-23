@@ -1,6 +1,7 @@
 # Short Responses
 
 For this short response assignment, aim to write a response with the following qualities (your instructor will give you feedback on these areas):
+
 - [] Addresses all parts of the prompt
 - [] Accurately uses relevant technical terminology
 - [] Is free of grammar and spelling mistakes (double check with grammarly!)
@@ -15,6 +16,8 @@ In your own words, define what **inheritance** is in object-oriented programming
 
 ## Response 1
 
+In object-oriented programming.
+
 ---
 
 ## Prompt 2
@@ -23,15 +26,21 @@ Consider these classes:
 
 ```js
 class Animal {
-  eat() { return "eating"; }
+  eat() {
+    return "eating";
+  }
 }
 
 class Dog extends Animal {
-  bark() { return "woof"; }
+  bark() {
+    return "woof";
+  }
 }
 
 class Puppy extends Dog {
-  play() { return "playing"; }
+  play() {
+    return "playing";
+  }
 }
 
 const rex = new Puppy();
@@ -41,7 +50,7 @@ Explain what happens when `rex.eat()` is invoked. In your answer, describe the r
 
 ## Response 3
 
---- 
+---
 
 ## Prompt 3
 
@@ -63,7 +72,7 @@ class Manager extends Employee {
     // YOUR CODE HERE
   }
   getDetails() {
-    // YOUR CODE HERE - should include both the Employee details 
+    // YOUR CODE HERE - should include both the Employee details
     // AND the department info
   }
 }
